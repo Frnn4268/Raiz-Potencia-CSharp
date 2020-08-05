@@ -1,0 +1,26 @@
+C:\Users\USUARIO\Desktop\Trabajos\2.do Semestre\Algoritmos\C#\prueba\bin\Debug\netcoreapp3.1\prueba.exe
+C:\Users\USUARIO\Desktop\Trabajos\2.do Semestre\Algoritmos\C#\prueba\bin\Debug\netcoreapp3.1\prueba.deps.json
+C:\Users\USUARIO\Desktop\Trabajos\2.do Semestre\Algoritmos\C#\prueba\bin\Debug\netcoreapp3.1\prueba.runtimeconfig.json
+C:\Users\USUARIO\Desktop\Trabajos\2.do Semestre\Algoritmos\C#\prueba\bin\Debug\netcoreapp3.1\prueba.runtimeconfig.dev.json
+C:\Users\USUARIO\Desktop\Trabajos\2.do Semestre\Algoritmos\C#\prueba\bin\Debug\netcoreapp3.1\prueba.dll
+C:\Users\USUARIO\Desktop\Trabajos\2.do Semestre\Algoritmos\C#\prueba\bin\Debug\netcoreapp3.1\prueba.pdb
+C:\Users\USUARIO\Desktop\Trabajos\2.do Semestre\Algoritmos\C#\prueba\obj\Debug\netcoreapp3.1\prueba.csprojAssemblyReference.cache
+C:\Users\USUARIO\Desktop\Trabajos\2.do Semestre\Algoritmos\C#\prueba\obj\Debug\netcoreapp3.1\prueba.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\Trabajos\2.do Semestre\Algoritmos\C#\prueba\obj\Debug\netcoreapp3.1\prueba.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\Trabajos\2.do Semestre\Algoritmos\C#\prueba\obj\Debug\netcoreapp3.1\prueba.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\Trabajos\2.do Semestre\Algoritmos\C#\prueba\obj\Debug\netcoreapp3.1\prueba.dll
+C:\Users\USUARIO\Desktop\Trabajos\2.do Semestre\Algoritmos\C#\prueba\obj\Debug\netcoreapp3.1\prueba.pdb
+C:\Users\USUARIO\Desktop\Trabajos\2.do Semestre\Algoritmos\C#\prueba\obj\Debug\netcoreapp3.1\prueba.genruntimeconfig.cache
+C:\Users\USUARIO\Desktop\Trabajos\2.do Semestre\Algoritmos\C#\Raíz y Potencia-C#\bin\Debug\netcoreapp3.1\prueba.exe
+C:\Users\USUARIO\Desktop\Trabajos\2.do Semestre\Algoritmos\C#\Raíz y Potencia-C#\bin\Debug\netcoreapp3.1\prueba.deps.json
+C:\Users\USUARIO\Desktop\Trabajos\2.do Semestre\Algoritmos\C#\Raíz y Potencia-C#\bin\Debug\netcoreapp3.1\prueba.runtimeconfig.json
+C:\Users\USUARIO\Desktop\Trabajos\2.do Semestre\Algoritmos\C#\Raíz y Potencia-C#\bin\Debug\netcoreapp3.1\prueba.runtimeconfig.dev.json
+C:\Users\USUARIO\Desktop\Trabajos\2.do Semestre\Algoritmos\C#\Raíz y Potencia-C#\bin\Debug\netcoreapp3.1\prueba.dll
+C:\Users\USUARIO\Desktop\Trabajos\2.do Semestre\Algoritmos\C#\Raíz y Potencia-C#\bin\Debug\netcoreapp3.1\prueba.pdb
+C:\Users\USUARIO\Desktop\Trabajos\2.do Semestre\Algoritmos\C#\Raíz y Potencia-C#\obj\Debug\netcoreapp3.1\prueba.csprojAssemblyReference.cache
+C:\Users\USUARIO\Desktop\Trabajos\2.do Semestre\Algoritmos\C#\Raíz y Potencia-C#\obj\Debug\netcoreapp3.1\prueba.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\Trabajos\2.do Semestre\Algoritmos\C#\Raíz y Potencia-C#\obj\Debug\netcoreapp3.1\prueba.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\Trabajos\2.do Semestre\Algoritmos\C#\Raíz y Potencia-C#\obj\Debug\netcoreapp3.1\prueba.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\Trabajos\2.do Semestre\Algoritmos\C#\Raíz y Potencia-C#\obj\Debug\netcoreapp3.1\prueba.dll
+C:\Users\USUARIO\Desktop\Trabajos\2.do Semestre\Algoritmos\C#\Raíz y Potencia-C#\obj\Debug\netcoreapp3.1\prueba.pdb
+C:\Users\USUARIO\Desktop\Trabajos\2.do Semestre\Algoritmos\C#\Raíz y Potencia-C#\obj\Debug\netcoreapp3.1\prueba.genruntimeconfig.cache
