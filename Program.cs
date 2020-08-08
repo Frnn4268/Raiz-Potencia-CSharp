@@ -11,12 +11,12 @@ namespace Raiz_y_Potencia
             //Introduccion del numero
             Console.WriteLine("Digite un número: ");
             num = Convert.ToDouble(Console.ReadLine());
-            //Cambio de valor de pot a num
-            pot = num;
+            //Asignacion de valor a la variable pot
+            pot = 2;
             //Resultados calculados
             resultado = Math.Pow(num, pot);
             resultado1 = Math.Sqrt(num);
-            //Reslutados escritos por medio de if
+            //If que verifica si el numero es 0 o menor que 0
             if (num > 0){
                 Console.WriteLine($"Del número: {num}, su potencia es {resultado} y su raíz es {resultado1} ");
             }
